@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SupportActivity"></activity>
+        <activity android:name=".AtroxActivity"></activity>
+        <activity android:name=".SupportActivity" />
         <activity android:name=".AdcActivity" />
         <activity android:name=".MidActivity" />
         <activity android:name=".JungleActivity" />
