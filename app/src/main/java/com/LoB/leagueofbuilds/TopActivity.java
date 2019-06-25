@@ -21,6 +21,7 @@ public class TopActivity extends AppCompatActivity {
 
         atrox = findViewById(R.id.imageButton6);
 
+        //pasar a la build de aatrox
         atrox.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
