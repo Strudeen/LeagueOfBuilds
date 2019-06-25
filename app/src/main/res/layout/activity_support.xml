@@ -32,35 +32,35 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/alistar" />
 
                     <ImageButton
                         android:id="@+id/imageButton7"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/anivia" />
 
                     <ImageButton
                         android:id="@+id/imageButton8"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/annie" />
 
                     <ImageButton
                         android:id="@+id/imageButton9"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/bard" />
 
                     <ImageButton
                         android:id="@+id/imageButton"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/blitzcrank" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -73,35 +73,35 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/brand" />
 
                     <ImageButton
                         android:id="@+id/imageButton11"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/braum" />
 
                     <ImageButton
                         android:id="@+id/imageButton12"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/fiddlesticks" />
 
                     <ImageButton
                         android:id="@+id/imageButton13"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/galio" />
 
                     <ImageButton
                         android:id="@+id/imageButton2"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/gragas" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -114,35 +114,35 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/janna" />
 
                     <ImageButton
                         android:id="@+id/imageButton15"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/karma" />
 
                     <ImageButton
                         android:id="@+id/imageButton16"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/leona" />
 
                     <ImageButton
                         android:id="@+id/imageButton17"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/lulu" />
 
                     <ImageButton
                         android:id="@+id/imageButton3"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/lux" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -155,35 +155,35 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/malphite" />
 
                     <ImageButton
                         android:id="@+id/imageButton18"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/maokai" />
 
                     <ImageButton
                         android:id="@+id/imageButton19"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/morgana" />
 
                     <ImageButton
                         android:id="@+id/imageButton20"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/nami" />
 
                     <ImageButton
                         android:id="@+id/imageButton21"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/nautilus" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -196,35 +196,35 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/neeko" />
 
                     <ImageButton
                         android:id="@+id/imageButton23"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/ornn" />
 
                     <ImageButton
                         android:id="@+id/imageButton24"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/poppy" />
 
                     <ImageButton
                         android:id="@+id/imageButton25"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/pyke" />
 
                     <ImageButton
                         android:id="@+id/imageButton26"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/rakan" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -237,35 +237,35 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/shen" />
 
                     <ImageButton
                         android:id="@+id/imageButton28"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/sion" />
 
                     <ImageButton
                         android:id="@+id/imageButton29"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/sona" />
 
                     <ImageButton
                         android:id="@+id/imageButton30"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/soraka" />
 
                     <ImageButton
                         android:id="@+id/imageButton31"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/tahm" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -278,35 +278,35 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/taliyah" />
 
                     <ImageButton
                         android:id="@+id/imageButton33"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/taric" />
 
                     <ImageButton
                         android:id="@+id/imageButton34"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/thresh" />
 
                     <ImageButton
                         android:id="@+id/imageButton35"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/veigar" />
 
                     <ImageButton
                         android:id="@+id/imageButton36"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/velkoz" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -319,111 +319,35 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/xerath" />
 
                     <ImageButton
                         android:id="@+id/imageButton38"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/yuumi" />
 
                     <ImageButton
                         android:id="@+id/imageButton39"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/zilean" />
 
                     <ImageButton
                         android:id="@+id/imageButton40"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
+                        app:srcCompat="@drawable/zoe" />
 
                     <ImageButton
                         android:id="@+id/imageButton41"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
-                </LinearLayout>
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="horizontal">
-
-                    <ImageButton
-                        android:id="@+id/imageButton45"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
-
-                    <ImageButton
-                        android:id="@+id/imageButton46"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
-
-                    <ImageButton
-                        android:id="@+id/imageButton47"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
-
-                    <ImageButton
-                        android:id="@+id/imageButton48"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
-
-                    <ImageButton
-                        android:id="@+id/imageButton49"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
-                </LinearLayout>
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="horizontal">
-
-                    <ImageButton
-                        android:id="@+id/imageButton50"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
-
-                    <ImageButton
-                        android:id="@+id/imageButton51"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
-
-                    <ImageButton
-                        android:id="@+id/imageButton52"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
-
-                    <ImageButton
-                        android:id="@+id/imageButton53"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        app:srcCompat="@mipmap/ic_launcher" />
-
+                        app:srcCompat="@drawable/zyra" />
                 </LinearLayout>
 
                 <LinearLayout

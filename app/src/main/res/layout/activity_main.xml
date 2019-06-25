@@ -20,31 +20,31 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <Button
-            android:id="@+id/top_button"
+            android:id="@+id/button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Top" />
 
         <Button
-            android:id="@+id/jg_button"
+            android:id="@+id/button2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Jungle" />
+            android:text="JUNGLE" />
 
         <Button
-            android:id="@+id/mid_button"
+            android:id="@+id/button3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Mid" />
+            android:text="MID" />
 
         <Button
-            android:id="@+id/adc_button"
+            android:id="@+id/button4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="ADC" />
 
         <Button
-            android:id="@+id/supp_button"
+            android:id="@+id/button5"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="SUPPORT" />

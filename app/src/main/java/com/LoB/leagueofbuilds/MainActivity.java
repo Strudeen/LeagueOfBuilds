@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
+
     Button top;
     Button jg;
     Button mid;
@@ -18,12 +19,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        top = findViewById(R.id.top_button);
-        jg = findViewById(R.id.jg_button);
-        mid = findViewById(R.id.mid_button);
-        adc = findViewById(R.id.adc_button);
-        supp = findViewById(R.id.supp_button);
-
+        top = findViewById(R.id.button);
+        jg = findViewById(R.id.button2);
+        mid = findViewById(R.id.button3);
+        adc = findViewById(R.id.button4);
+        supp = findViewById(R.id.button5);
 
         top.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -32,13 +32,15 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(top);
             }
         });
+
         jg.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent jungle = new Intent(MainActivity.this, JungleActivity.class);
-                startActivity(jungle);
+                Intent jg = new Intent(MainActivity.this, JungleActivity.class);
+                startActivity(jg);
             }
         });
+
         mid.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -46,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(mid);
             }
         });
+
         adc.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -53,12 +56,17 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(adc);
             }
         });
+
+
         supp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent suppport = new Intent(MainActivity.this, SupportActivity.class);
-                startActivity(suppport);
+                Intent support = new Intent(MainActivity.this, SupportActivity.class);
+                startActivity(support);
             }
         });
+
+
+
     }
 }

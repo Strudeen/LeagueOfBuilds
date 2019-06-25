@@ -13,7 +13,6 @@ public class MidActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mid);
-        setContentView(R.layout.activity_jungle);
         oculto = findViewById(R.id.oculto);
 
         oculto.setEnabled(false);
